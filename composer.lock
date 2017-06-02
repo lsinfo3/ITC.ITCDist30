@@ -829,12 +829,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/lsinfo3/Itc.ITeleTraffic.git",
-                "reference": "5c05f0be88f1f5808ef0cdb7ae5b3699b0c2de3d"
+                "reference": "5c46839ec34b4c9cec6838f1ac3b29f0a2e81254"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lsinfo3/Itc.ITeleTraffic/zipball/5c05f0be88f1f5808ef0cdb7ae5b3699b0c2de3d",
-                "reference": "5c05f0be88f1f5808ef0cdb7ae5b3699b0c2de3d",
+                "url": "https://api.github.com/repos/lsinfo3/Itc.ITeleTraffic/zipball/5c46839ec34b4c9cec6838f1ac3b29f0a2e81254",
+                "reference": "5c46839ec34b4c9cec6838f1ac3b29f0a2e81254",
                 "shasum": ""
             },
             "require": {
@@ -852,7 +852,7 @@
                 "source": "https://github.com/lsinfo3/Itc.ITeleTraffic/tree/master",
                 "issues": "https://github.com/lsinfo3/Itc.ITeleTraffic/issues"
             },
-            "time": "2015-09-04 09:37:03"
+            "time": "2016-07-18 14:23:11"
         },
         {
             "name": "league/commonmark",
