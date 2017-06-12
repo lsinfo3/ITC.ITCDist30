@@ -17,7 +17,7 @@
 	"neos/composer-plugin": "~2.0.1",
         "neos/demo": "~3.1.1",
         "neos/site-kickstarter": "~3.1.1",
-        "neos/eel": "4.*.*",
+        "neos/eel": "4.1.*",
         "neos/party": "~4.0.0",
         "itc/iteletraffic": "dev-master",
         "neos/seo": "~2.0.2",
