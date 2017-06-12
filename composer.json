@@ -11,24 +11,22 @@
         "url": "https://github.com/lsinfo3/Itc.ITeleTraffic.git"
     }],
     "require": {
-        "neos/neos": "~3.1.1",
-	"neos/flow": "~4.1.0",
+	"neos/neos": "~2.3",
 	"composer-plugin-api": "^1.0",
-	"neos/composer-plugin": "~2.0.1",
-        "neos/demo": "~3.1.1",
-        "neos/site-kickstarter": "~3.1.1",
-        "neos/eel": "4.1.*",
-        "neos/party": "~4.0.0",
+	"neos/composer-plugin": "~2.0.0",
+        "neos/demo": "~2.3",
+        "neos/site-kickstarter": "~2.3",
+        "typo3/fluid": "~3.2.5",
+        "neos/eel": "~3.2.5",
+        "neos/party": "~3.1.3",
+        "lelesys/news": "2.3.x-dev",
         "itc/iteletraffic": "dev-master",
-        "neos/seo": "~2.0.2",
-	"neos/redirecthandler-neosadapter": "~2.0.0",
-	"neos/redirecthandler": "~2.0.0",
-	"neos/redirecthandler-databasestorage": "~2.0.0"
+	"neos/seo": "~1.0.10"
     },
     "require-dev": {
-        "typo3/buildessentials": "4.1.*",
+        "typo3/buildessentials": "3.3.*",
         "mikey179/vfsstream": "1.6.*",
-        "phpunit/phpunit": "6.2.*",
+        "phpunit/phpunit": "5.5.*",
         "neos/behat": "3.0.*"
     },
     "suggest": {
