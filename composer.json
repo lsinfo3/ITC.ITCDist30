@@ -27,7 +27,7 @@
         "typo3/buildessentials": "3.3.*",
         "mikey179/vfsstream": "1.6.*",
         "phpunit/phpunit": "5.5.*",
-        "neos/behat": "3.0.*"
+        "neos/behat": "dev-master"
     },
     "suggest": {
         "ext-pdo_sqlite": "For running functional tests out-of-the-box this is required"

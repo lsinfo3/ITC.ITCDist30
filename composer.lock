@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "7f36f4921f3fbb412bbde97b7e42725b",
+    "content-hash": "69c7f1af0bbdafbda8f8b6ce7cdb7123",
     "packages": [
         {
             "name": "behat/transliterator",
@@ -2969,16 +2969,16 @@
         },
         {
             "name": "neos/behat",
-            "version": "3.0.0",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/neos/behat.git",
-                "reference": "d16ba13ed4428d79b18224781a4fbf01c3b8ba21"
+                "reference": "1be9fcc6ab631ad4c6e4eed9d22919aafc33ebe3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/neos/behat/zipball/d16ba13ed4428d79b18224781a4fbf01c3b8ba21",
-                "reference": "d16ba13ed4428d79b18224781a4fbf01c3b8ba21",
+                "url": "https://api.github.com/repos/neos/behat/zipball/1be9fcc6ab631ad4c6e4eed9d22919aafc33ebe3",
+                "reference": "1be9fcc6ab631ad4c6e4eed9d22919aafc33ebe3",
                 "shasum": ""
             },
             "require": {
@@ -3031,7 +3031,7 @@
                 "LGPL-3.0+"
             ],
             "description": "Behat support package for Neos Flow",
-            "time": "2017-01-05T12:26:27+00:00"
+            "time": "2017-03-23T15:54:23+00:00"
         },
         {
             "name": "neos/flow",
@@ -4294,7 +4294,8 @@
     "minimum-stability": "stable",
     "stability-flags": {
         "lelesys/news": 20,
-        "itc/iteletraffic": 20
+        "itc/iteletraffic": 20,
+        "neos/behat": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
