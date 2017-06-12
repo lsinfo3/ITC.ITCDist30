@@ -11,17 +11,17 @@
         "url": "https://github.com/lsinfo3/Itc.ITeleTraffic.git"
     }],
     "require": {
-	"neos/neos": "~2.3",
+	"typo3/neos": "~2.2.5",
 	"composer-plugin-api": "^1.0",
 	"neos/composer-plugin": "~2.0.0",
-        "neos/demo": "~2.3",
-        "neos/site-kickstarter": "~2.3",
+        "neos/demo": "~2.2.5",
+        "typo3/neos-kickstarter": "~2.2.5",
         "typo3/fluid": "~3.2.5",
-        "neos/eel": "~3.2.5",
-        "neos/party": "~3.1.3",
-        "lelesys/news": "2.3.x-dev",
+        "typo3/eel": "~3.2.5",
+        "typo3/party": "~3.1.3",
+        "lelesys/news": "2.2.x-dev",
         "itc/iteletraffic": "dev-master",
-	"neos/seo": "~1.0.10"
+	"typo3/neos-seo": "~1.0.10"
     },
     "require-dev": {
         "typo3/buildessentials": "3.3.*",
